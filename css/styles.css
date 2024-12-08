@@ -108,6 +108,7 @@ img {
   gap: 40px;
   padding-top: 24px;
   padding-bottom: 24px;
+  padding-left: 0;
 }
 
 .menu-link {
